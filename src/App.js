@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import RollDice from './RollDice'
+import RollDice from './components/RollDice'
 function App() {
   return (
     <div className="App">

@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import Die from './Die';
+import Die from '../Die';
 import './RollDice.css'
 export default class RollDice extends Component {
     static defaultProps = {
